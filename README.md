@@ -51,18 +51,6 @@ Evaluation metrics used:
 
 ---
 
-## 📂 Project Structure
-
-```
-car-condition-prediction/
-│
-├── data/
-├── notebook/
-├── model/
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 ---
 
